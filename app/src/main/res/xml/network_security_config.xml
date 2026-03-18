@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">api.frankfurter.app</domain>
+        <domain includeSubdomains="true">open.er-api.com</domain>
+        <domain includeSubdomains="true">query1.finance.yahoo.com</domain>
+        <domain includeSubdomains="true">query2.finance.yahoo.com</domain>
+    </domain-config>
+</network-security-config>

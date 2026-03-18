@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ApexTrader" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">#050912</item>
+        <item name="android:statusBarColor">#050912</item>
+        <item name="android:navigationBarColor">#050912</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="SignalDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+    </style>
+</resources>
